@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>SIMS Cafe Updates</title>
+        <description>Most recent updates to SIMS Cafe</description>
+        <language>en</language>
+        
+        <!-- Windows Update Entry -->
+        <item>
+            <title>Version 6.4.7 (Windows)</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                        <li>Added automatic updaters</li>
+                        <li>Bug fixes and performance improvements</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Mon, 09 Jun 2026 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/simsai-git/SIMS-CAFE/releases/download/v2.0.2/sims_cafe.exe"
+                       sparkle:version="6.4.7"
+                       sparkle:os="windows" />
+        </item>
+
+        <!-- Android Update Entry -->
+        <item>
+            <title>Version 6.4.7 (Android)</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                        <li>Added automatic updaters</li>
+                        <li>Bug fixes and performance improvements</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Mon, 09 Jun 2026 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/simsai-git/SIMS-CAFE/releases/download/v2.0.2/app-release.apk"
+                       sparkle:version="6.4.7"
+                       sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
