@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>SIMS Cafe Updates</title>
-        <description>Most recent updates to SIMS Cafe</description>
+        <title>SIMS CAFE Updates</title>
+        <description>Most recent updates to SIMS CAFE</description>
         <language>en</language>
         
         <!-- Windows Update Entry -->
         <item>
-            <title>Version 6.4.7 (Windows)</title>
+            <title>Version 6.5.8 (Windows)</title>
             <!-- <description>
                 <![CDATA[
                     <ul>
@@ -16,15 +16,15 @@
                     </ul>
                 ]]>
             </description> -->
-            <pubDate>Mon, 09 Jun 2026 12:00:00 +0000</pubDate>
+            <pubDate>Thu, 25 Jun 2026 14:39:00 +0000</pubDate>
             <enclosure url="https://github.com/simsai-git/SIMS-CAFE/releases/download/v6.4.7/cafeapp.exe"
-                       sparkle:version="6.4.7"
+                       sparkle:version="6.5.8"
                        sparkle:os="windows" />
         </item>
 
         <!-- Android Update Entry -->
         <item>
-            <title>Version 6.4.7 (Android)</title>
+            <title>Version 6.5.8 (Android)</title>
             <!-- <description>
                 <![CDATA[
                     <ul>
@@ -33,9 +33,9 @@
                     </ul>
                 ]]>
             </description> -->
-            <pubDate>Mon, 09 Jun 2026 12:00:00 +0000</pubDate>
+            <pubDate>Thu, 25 Jun 2026 14:39:00 +0000</pubDate>
             <enclosure url="https://github.com/simsai-git/SIMS-CAFE/releases/download/v6.4.7/app-release.apk"
-                       sparkle:version="6.4.7"
+                       sparkle:version="6.5.8"
                        sparkle:os="android" />
         </item>
     </channel>
