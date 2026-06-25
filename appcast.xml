@@ -17,7 +17,7 @@
                 ]]>
             </description> -->
             <pubDate>Thu, 25 Jun 2026 14:39:00 +0000</pubDate>
-            <enclosure url="https://github.com/simsai-git/SIMS-CAFE/releases/download/v6.5.8/cafeapp.exe"
+            <enclosure url="https://github.com/simsai-git/SIMS-CAFE/releases/download/v6.5.8/SIMS.CAFE.exe"
                        sparkle:version="6.5.8"
                        sparkle:os="windows" />
         </item>
